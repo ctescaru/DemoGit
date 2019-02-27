@@ -1,3 +1,4 @@
 Milk
 eggs
 bread - now it's ready
+chocolate
